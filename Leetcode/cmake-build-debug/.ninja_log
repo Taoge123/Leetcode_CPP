@@ -1,7 +1,0 @@
-# ninja log v5
-1	461	1645334041805465786	CMakeFiles/Leetcode.dir/main.cpp.o	dd7c108ab86a9832
-1	505	1645334191000557720	CMakeFiles/Leetcode.dir/Leetcode_1/Test.cpp.o	93a9b57586af6c7e
-505	575	1645334191074835387	Leetcode	613d2ad231bdf47e
-2	630	1645385674230961850	CMakeFiles/Leetcode.dir/main.cpp.o	dd7c108ab86a9832
-2	658	1645385674259963255	CMakeFiles/Leetcode.dir/Leetcode_1/Test.cpp.o	93a9b57586af6c7e
-658	722	1645385674328503894	Leetcode	613d2ad231bdf47e
