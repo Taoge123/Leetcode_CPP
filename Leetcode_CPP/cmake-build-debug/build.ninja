@@ -84,6 +84,18 @@ build CMakeFiles/Leetcode_CPP.dir/Leetcode_1/test.cpp.o: CXX_COMPILER__Leetcode_
   OBJECT_DIR = CMakeFiles/Leetcode_CPP.dir
   OBJECT_FILE_DIR = CMakeFiles/Leetcode_CPP.dir/Leetcode_1
 
+build CMakeFiles/Leetcode_CPP.dir/Leetcode_2/LC_1820.cpp.o: CXX_COMPILER__Leetcode_CPP_Debug /Users/taotaotao/CLionProjects/Leetcode_CPP/Leetcode_2/LC_1820.cpp || cmake_object_order_depends_target_Leetcode_CPP
+  DEP_FILE = CMakeFiles/Leetcode_CPP.dir/Leetcode_2/LC_1820.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Leetcode_CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles/Leetcode_CPP.dir/Leetcode_2
+
+build CMakeFiles/Leetcode_CPP.dir/Leetcode_3/LC_2002.cpp.o: CXX_COMPILER__Leetcode_CPP_Debug /Users/taotaotao/CLionProjects/Leetcode_CPP/Leetcode_3/LC_2002.cpp || cmake_object_order_depends_target_Leetcode_CPP
+  DEP_FILE = CMakeFiles/Leetcode_CPP.dir/Leetcode_3/LC_2002.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Leetcode_CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles/Leetcode_CPP.dir/Leetcode_3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Leetcode_CPP
@@ -92,7 +104,7 @@ build CMakeFiles/Leetcode_CPP.dir/Leetcode_1/test.cpp.o: CXX_COMPILER__Leetcode_
 #############################################
 # Link the executable Leetcode_CPP
 
-build Leetcode_CPP: CXX_EXECUTABLE_LINKER__Leetcode_CPP_Debug CMakeFiles/Leetcode_CPP.dir/main.cpp.o CMakeFiles/Leetcode_CPP.dir/Leetcode_1/test.cpp.o
+build Leetcode_CPP: CXX_EXECUTABLE_LINKER__Leetcode_CPP_Debug CMakeFiles/Leetcode_CPP.dir/main.cpp.o CMakeFiles/Leetcode_CPP.dir/Leetcode_1/test.cpp.o CMakeFiles/Leetcode_CPP.dir/Leetcode_2/LC_1820.cpp.o CMakeFiles/Leetcode_CPP.dir/Leetcode_3/LC_2002.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk
   OBJECT_DIR = CMakeFiles/Leetcode_CPP.dir
   POST_BUILD = :
