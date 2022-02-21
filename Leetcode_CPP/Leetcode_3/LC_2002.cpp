@@ -2,6 +2,12 @@
 //
 // Created by Tony Cheng on 2/20/22.
 //
+#include <iostream> // header in standard library
+#include <vector>
+#include <string>
+#include <stdlib.h>
+
+using namespace std;
 
 class Solution {
 public:
