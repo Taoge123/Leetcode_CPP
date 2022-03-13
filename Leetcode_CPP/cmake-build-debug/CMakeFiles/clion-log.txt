@@ -1,4 +1,4 @@
-/private/var/folders/9x/gtm_461n1ls5pl900727wg8m00rypk/T/AppTranslocation/006E7A6E-AF66-4865-B8CB-56966A1EA0BD/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/9x/gtm_461n1ls5pl900727wg8m00rypk/T/AppTranslocation/006E7A6E-AF66-4865-B8CB-56966A1EA0BD/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/taotaotao/CLionProjects/Leetcode_CPP
+/private/var/folders/9x/gtm_461n1ls5pl900727wg8m00rypk/T/AppTranslocation/F25D2A6A-3935-478B-BDA0-7EF27DDD1C20/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/9x/gtm_461n1ls5pl900727wg8m00rypk/T/AppTranslocation/F25D2A6A-3935-478B-BDA0-7EF27DDD1C20/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/taotaotao/CLionProjects/Leetcode_CPP
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/taotaotao/CLionProjects/Leetcode_CPP/cmake-build-debug
